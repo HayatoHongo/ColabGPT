@@ -56,7 +56,7 @@ I couldn’t translate the images with the tool, and I’d really appreciate you
 | Chapter 08: FeedForward        | 1-2 hour    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter08_todo.ipynb) |
 | Chapter 09: TransformerBlock   | 0.5-1 hour  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter09_todo.ipynb) |
 | Chapter 10: VocabularyLogits   | 0.5-1 hour  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter10_todo.ipynb) |
-| Chapter 11: BigramLanguageModel| 1-2 hour    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter11_todo.ipynb) |
+| Chapter 11: nanoGPT| 1-2 hour    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter11_todo.ipynb) |
 | Chapter 12: Trainer            | 1-2 hour    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter12_todo.ipynb) |
 
 
