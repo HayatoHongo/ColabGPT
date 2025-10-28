@@ -32,7 +32,7 @@
 | Chapter 08: FeedForward          | 1–2 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter08_todo_ch.ipynb) |
 | Chapter 09: TransformerBlock     | 0.5–1 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter09_todo_ch.ipynb) |
 | Chapter 10: VocabularyLogits     | 0.5–1 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter10_todo_ch.ipynb) |
-| Chapter 11: BigramLanguageModel  | 1–2 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter11_todo_ch.ipynb) |
+| Chapter 11: nanoGPT  | 1–2 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter11_todo_ch.ipynb) |
 | Chapter 12: Trainer              | 1–2 小时 | [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ch/notebooks/todo/Everyones_nanoGPT_colab_Chapter12_todo_ch.ipynb) |
 
 
