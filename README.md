@@ -59,7 +59,7 @@
 
 
 ## **デモ出力例**
-![nanoGPT_demo_output](assets/Everyones_nanoGPT_demo_output.png)
+![nanoGPT_demo_output](assets/v2_Everyones_nanoGPT_demo_output.png)
 
 ---
 
