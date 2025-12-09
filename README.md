@@ -23,6 +23,21 @@
 
 ## 目次
 
+### 基礎知識（ウォーミングアップ）
+
+一度もMLPやVAEを実装したことがない😥...という方も安心してください！<br>
+ちょっとたいへんですが、このウォーミングアップをやれば準備万端です。<br>
+すでに実装された経験のある方は、本題のEveryones_nanoGPTから始めてください。
+
+| チャプター  | 推定所要時間 | ノートブック  |
+|---|---|---|
+| Chapter 01: MNIST MLP 1        | 2〜3時間 | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_DeepLearning_colab_Chapter01_todo_ja.ipynb) |
+| Chapter 02:  MNIST MLP 2    | 1〜2時間 | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_DeepLearning_colab_Chapter02_todo_ja.ipynb) |
+| Chapter 03:  cVAE | 2〜3時間 | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_DeepLearning_colab_Chapter03_todo_ja.ipynb) |
+
+
+### Everyones_nanoGPT(メイン)
+
 | チャプター  | 推定所要時間 | ノートブック  |
 |---|---|---|
 | Chapter 00: Start Tutorial      | 1〜2時間 | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter00_todo_ja.ipynb) |
@@ -79,16 +94,6 @@
 - 平均値と分散  
 - ResNetの残差接続（residual connection）  
 - Word2Vectorの仕組み  
-
-**ほぼ必須の経験**  
-- PyTorchでMNISTの数字認識モデルを作ったことがある  
-- 上のようなモデルでクロスエントロピーを損失関数に使ったことがある  
-- ミニバッチ処理やバッチ正規化（batch normalization）を実装したことがある  
-- オートエンコーダやVAEを作ったことがある  
-
----
-
-PyTorchやプログラミングが初めての人向けにも、前提条件を満たすための2025年8月30日までに楽しい入門チュートリアルを準備中です！
 
 ---
 
