@@ -70,7 +70,8 @@
 | Chapter 19: Long Train    | 1〜2時間 (+ モデル学習 **6時間** )  | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter19_todo_ja.ipynb) |          |
 | Chapter 20: 学習率            | 0.5〜1時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter20_todo_ja.ipynb) |          |
 | Chapter 21: Scaling Law       | 1〜2時間 | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter21_todo_ja.ipynb) |          |
-| Chapter 22: Coming Soon | 1〜2時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter22_todo_ja.ipynb) |          |
+| Chapter 22: TinyStories(メイン) | 1〜2時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter22_main_todo_ja.ipynb) |          |
+| Chapter 22: TinyStories(モデル学習) | 1時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter22_train_todo_ja.ipynb) |          |
 
 
 ## **デモ出力例**
@@ -124,6 +125,25 @@ Python 3.12 & PyTorch 2.6.0がベストですが、たいていは他のバー�
 Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Container拡張でさらに安定した環境を作れます。
 
 ---
+
+## **解答**
+
+こちらが「notebooks/todo」を「notebooks/answer」に置き換えた表です👇
+
+| チャプター                                 | 推定所要時間                   | ノートブック                                                                                                                                                                                                                           |
+| ------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter 13: Tokens per second(CPU)    | 1~2時間                    | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter13_answer_ja.ipynb)       |
+| Chapter 14: Tokens per second(T4 GPU) | 0.5〜1時間                  | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter14_answer_ja.ipynb)       |
+| Chapter 15: Train nanoGPT with GPU    | 0.5〜1時間                  | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter15_answer_ja.ipynb)       |
+| Chapter 16: モデルサイズだけ大きくする             | 0.5 ~ 1 時間 (+ モデル学習 1時間) | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter16_answer_ja.ipynb)       |
+| Chapter 17: データセットを大きくする              | 1〜2時間 (+ モデル学習 1時間)      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter17_answer_ja.ipynb)       |
+| Chapter 18: tiktoken                  | 1〜2時間 (+ モデル学習 1時間)      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter18_answer_ja.ipynb)       |
+| Chapter 19: Long Train                | 1〜2時間 (+ モデル学習 **6時間** ) | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter19_answer_ja.ipynb)       |
+| Chapter 20: 学習率                       | 0.5〜1時間                  | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter20_answer_ja.ipynb)       |
+| Chapter 21: Scaling Law               | 1〜2時間                    | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter21_answer_ja.ipynb)       |
+| Chapter 22: TinyStories(メイン)          | 1〜2時間                    | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter22_main_answer_ja.ipynb)  |
+| Chapter 22: TinyStories(モデル学習)        | 1時間                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter22_train_answer_ja.ipynb) |
+
 
 ## **Project EveryonesAIについて**
 
