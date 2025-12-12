@@ -128,8 +128,6 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 
 ## **解答**
 
-こちらが「notebooks/todo」を「notebooks/answer」に置き換えた表です👇
-
 | チャプター                                 | 推定所要時間                   | ノートブック                                                                                                                                                                                                                           |
 | ------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Chapter 13: Tokens per second(CPU)    | 1~2時間                    | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter13_answer_ja.ipynb)       |
