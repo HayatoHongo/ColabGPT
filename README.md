@@ -73,6 +73,8 @@
 | Chapter 22: TinyStories(メイン) | 1〜2時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter22_main_todo_ja.ipynb) |          |
 | Chapter 22: TinyStories(モデル学習) | 1時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter22_train_todo_ja.ipynb) |          |
 | Chapter 23: RPE(OverSimplified) | 2~3時間   | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter23_todo_ja.ipynb) |          |
+| Chapter 24: RPE(Simplified)        | 1〜2時間 (+ モデル学習 1時間)      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter24_todo_ja.ipynb) |
+
 
 
 ## **デモ出力例**
@@ -143,6 +145,7 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 | Chapter 22: TinyStories(メイン)          | 1〜2時間                    | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter22_main_answer_ja.ipynb)  |
 | Chapter 22: TinyStories(モデル学習)        | 1時間                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter22_train_answer_ja.ipynb) |
 | Chapter 23: RPE(OverSimplified)        | 2~3時間                     | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter23_answer_ja.ipynb) |
+| Chapter 24: RPE(Simplified)        | 1〜2時間 (+ モデル学習 1時間)      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter24_answer_ja.ipynb) |
 
 
 ## **Project EveryonesAIについて**
