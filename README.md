@@ -169,6 +169,8 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 
 **清書前追加**
 
+| チャプター                                 | 推定所要時間                   | ノートブック                                                                                                                                                                                                                           |
+| ------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Chapter 25: RoPE        |                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter25_answer_ja.ipynb) |
 | Chapter 26: Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter26_answer_ja.ipynb) |
 | Chapter 27: Instruction Tuning        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter27_answer_ja.ipynb) |
