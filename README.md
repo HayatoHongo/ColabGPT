@@ -4,7 +4,9 @@
 🎉 アップデート: 2025.12.30
 RoPE から Vision Language Model（VLM）までを一貫して扱う教材の清書前ベータ版を追加で公開しました。
 
-既存の Vision Language Model の実装コードに依存せず、notebook形式で VLM の学習をスクラッチ実装として体系的に構築する公開教材は、筆者の知る限り前例のない試みです。（※注1）
+外部の Vision Language Model の実装コードに依存せず、
+notebook形式で VLM の学習をスクラッチ実装として体系的に構築する公開教材は、
+筆者の知る限り前例のない試みです。（※注1）
 
 ※注1.
 本教材は PyTorch を用いて実装しており、Vision Encoder には transformers ライブラリから取得した CLIP の事前学習済みモデルを使用しています。
