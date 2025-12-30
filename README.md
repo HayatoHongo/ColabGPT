@@ -1,5 +1,22 @@
 # **Everyones_nanoGPT 穴埋めノートブック・チュートリアル**
 
+```
+🎉 アップデート: 2025.12.30
+RoPE から Vision Language Model（VLM）までを一貫して扱う教材の清書前ベータ版を追加で公開しました。
+
+既存の Vision Language Model の実装コードに依存せず、notebook形式で VLM の学習をスクラッチ実装として体系的に構築する公開教材は、筆者の知る限り前例のない試みです。（※注1）
+
+※注1.
+本教材は PyTorch を用いて実装しており、Vision Encoder には transformers ライブラリから取得した CLIP の事前学習済みモデルを使用しています。
+
+類似する notebook 形式の教材として Mini-LLaVA が存在します。非常に優れた教材であり、本教材の作成にあたっても参考にさせていただきました。著者の方に深く感謝いたします。
+一方で、Mini-LLaVA が既存の VLM 実装コードに強く依存しているのに対し、本教材では VLM の構成および学習ロジックを自前で実装している点に新規性があります。
+
+もし同等の条件（VLM／notebook形式／既存VLM実装非依存）を満たす先行教材をご存知の方がいらっしゃいましたら、issues にてご指摘ください。
+
+なお、LLaVA を開発された皆様にも深く感謝いたします。
+```
+
 これは、「ChatGPTが好き！」「自分でも作ってみたい！」という人のための完全ガイドです。<br>
 「こんにちは！」と打てば「今日はどうしましたか？」と返してくれる。<br>
 それが実は、ただの足し算掛け算と少しの非線形の積み重ねで動いていると知ったとき、<br>
@@ -146,6 +163,15 @@ Docker Desktopを使っている場合は、同梱の`Dockerfile`やDev Containe
 | Chapter 22: TinyStories(モデル学習)        | 1時間                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter22_train_answer_ja.ipynb) |
 | Chapter 23: RPE(OverSimplified)        | 2~3時間                     | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter23_answer_ja.ipynb) |
 | Chapter 24: RPE(Simplified)        | 1〜2時間 (+ モデル学習 1時間)      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter24_answer_ja.ipynb) |
+
+
+**清書前追加**
+
+| Chapter 25: RoPE        |                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter25_answer_ja.ipynb) |
+| Chapter 26: Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter26_answer_ja.ipynb) |
+| Chapter 27: Instruction Tuning        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter27_answer_ja.ipynb) |
+| Chapter 26: Vision Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/Everyones_nanoGPT/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter28_answer_ja.ipynb) |
+
 
 
 ## **Project EveryonesAIについて**
