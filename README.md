@@ -16,7 +16,7 @@
 さあ、一緒にGPTモデルを作ろう！😎  
 このチュートリアルでは、わかりやすい解説と**100問以上の穴埋め問題🫨**を用意しています。  
 「ちょっとLLM作りたいからやってみたい」――そんな人が本気で力をつけられる内容です。  
-必要な予備知識があれば、12〜18時間で修了可能！  
+必要な予備知識があれば、28〜42時間で修了可能！  
 すべてGoogle Colab上で動かせます。  
 このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
 この場を借りて、心から感謝します。
